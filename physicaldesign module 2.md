@@ -81,6 +81,8 @@ The top bar also shows that the design is being viewed using the SKY130A technol
 ## 7. Layout Observations
 Figure 1 – Complete Layout at High-Level View
 <img width="1618" height="972" alt="image" src="https://github.com/user-attachments/assets/e2c07370-2b94-4e39-91e9-2ffe90321cd0" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/1be33f90-750b-482c-bb18-66d7de9be98e" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/1f5a05de-4e65-4bf4-a77a-62df232cf722" />
 
 
 
@@ -134,6 +136,10 @@ trace_data[26]
 is visible.
 
 The screenshot also shows several rectangular physical regions and standard-cell structures.
+## klayout:
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/f18a4826-3681-4cca-8998-1fac29743b42" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/e057c235-c89e-47b0-bcf8-82d9bae65814" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/7d13061a-b7f8-4688-bc6c-c8f3447227d8" />
 
 Observation
 

@@ -116,6 +116,8 @@ The placement can be inspected in greater detail.
 
 For an enlarged view:
 <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/cbc3d036-bdeb-4abc-946b-954733c28880" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/e333c89d-bd7a-42ae-8031-0c9050a3373c" />
+
 
 # Result
 The SKY130 pre-layout timing flow was studied successfully. Timing libraries and delay tables were understood, synthesis was configured, and setup/hold timing analysis was performed conceptually using OpenSTA. Clock-tree synthesis and the difference between ideal-clock and real-clock timing analysis were also studied.

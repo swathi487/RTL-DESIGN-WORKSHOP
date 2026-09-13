@@ -123,9 +123,10 @@ PMOS has its active region.
 Active regions define where the transistor source and drain can be formed. 
 
 <img width="1280" height="767" alt="image" src="https://github.com/user-attachments/assets/84dba0c7-d96f-49ea-b776-97940ae5c43e" />
+# Time period
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/f0a21756-b6eb-4e86-93d5-00f4ee91b9d4" />
 
-Caption:
-Figure 3: Selection/inspection of the NMOS region during SKY130 layout creation.
+
 # Formation of N-Well and P-Well
 N-Well
 The N-well is the region used to accommodate PMOS devices.

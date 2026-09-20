@@ -114,12 +114,19 @@ Then:
 The placement can be inspected in greater detail.
 <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/2d534c6c-f348-429b-927d-3a1c25834dce" />
 
-For an enlarged view:
+# For an enlarged view:
 <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/cbc3d036-bdeb-4abc-946b-954733c28880" />
 <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/e333c89d-bd7a-42ae-8031-0c9050a3373c" />
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/9fca8870-9249-4150-9c34-6f6ca712f495" />
+# CTS
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/3213057d-1447-4765-9977-1b63b64120ce" />
+# PRE STA
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/70a3c2dc-b897-4e08-a1ce-9149dbeec0c9" />
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/c78bd7c7-396c-4dc2-9200-0227c4aeab39" />
+# SLACKS
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/c1af4c79-6273-4cc6-8a97-9d9d675c563c" />
 
-
-# Result
-The SKY130 pre-layout timing flow was studied successfully. Timing libraries and delay tables were understood, synthesis was configured, and setup/hold timing analysis was performed conceptually using OpenSTA. Clock-tree synthesis and the difference between ideal-clock and real-clock timing analysis were also studied.
 # Conclusion
 This module provides an understanding of how timing information is generated and used before and after clock-tree implementation. The use of Liberty timing libraries, delay tables, synthesis, OpenSTA and CTS helps identify timing problems and improve the overall performance of a digital design.
+# Result
+The SKY130 pre-layout timing flow was studied successfully. Timing libraries and delay tables were understood, synthesis was configured, and setup/hold timing analysis was performed conceptually using OpenSTA. Clock-tree synthesis and the difference between ideal-clock and real-clock timing analysis were also studied.
